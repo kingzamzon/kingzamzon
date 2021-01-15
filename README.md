@@ -1,4 +1,17 @@
-### Hi there 👋
+<h3 align="center">Hey Yo!👋  I'm Samson Adesanoye!</h3>
+
+<p align="center">
+  <a href="https://hashnode.com/@Kingzamzon">Blog</a>
+  <a href="https://twitter.com/kingzamzon">Twitter</a>
+  <a href="https://www.linkedin.com/in/kingzamzon/">LinkedIn</a>
+</p>
+
+I have the ability to put together high performance and scalable applications which are fit for purpose, functionality correct and meet user
+precise needs.
+These days, I'm quite interested in Developer Experience, Javascript Build Tools and also Cloud Native Tech😄
+
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently looking for role in Back-End development / Full Stack development
 
 <!--
 **kingzamzon/kingzamzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I have the ability to put together high performance and scalable applications which are fit for purpose, functionality correct and meet user
-precise needs.
-
-<!-- CONTACT -->
-### Writes at:
-
-[Hashnode](https://hashnode.com/@Kingzamzon) - [Dev.to](https://dev.to/kingzamzon)
-
-<!-- CONTACT -->
-### Contact
-
-Adesanoye Samson - [@kingzamzon](https://twitter.com/kingzamzon) - adesanoye.samson@yahoo.com
-
