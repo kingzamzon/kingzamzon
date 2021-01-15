@@ -8,7 +8,6 @@
 
 I have the ability to put together high performance and scalable applications which are fit for purpose, functionality correct and meet user
 precise needs.
-These days, I'm quite interested in Developer Experience, Javascript Build Tools and also Cloud Native Tech😄
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently looking for role in Back-End development / Full Stack development
