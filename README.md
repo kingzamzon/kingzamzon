@@ -1,16 +1,27 @@
-<h3 align="center">Hey Yo!👋  I'm Samson Adesanoye!</h3>
+<h3>Hey Yo!👋  I'm Samson Adesanoye!</h3>
 
-<p align="center">
+<p>
   <a href="https://hashnode.com/@Kingzamzon">Blog</a>
-  <a href="https://twitter.com/kingzamzon">Twitter</a>
+  <a href="https://twitter.com/CreativeNiyi">Twitter</a>
   <a href="https://www.linkedin.com/in/kingzamzon/">LinkedIn</a>
 </p>
 
-I have the ability to put together high performance and scalable applications which are fit for purpose, functionality correct and meet user
-precise needs.
+I am a software developer with interest in PHP/Laravel and TypeScript/Node.js
 
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently looking for role in Back-End development / Full Stack development
+
+- What I'm learning 🌱
+
+  Everyday is another day to be a better version of myself, better version of the yesterday me across various stacks in tech, Here's a list of technologies/tools/concepts I am currently working with.
+    - PHP
+    - React
+    - Vue
+    - TypeScript 
+    - Node.js
+    - Laravel 
+    - Blockchain Development/web3 
+    - Algo & DS 
+    - AWS
+    - Docker
 
 <!--
 **kingzamzon/kingzamzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
