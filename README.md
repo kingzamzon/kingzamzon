@@ -1,14 +1,23 @@
 <h3 align="center">Hey Yo!👋  I'm Samson Adesanoye!</h3>
 
 <p align="center">
-  <a href="https://medium.com/@kingzamzon"> Blog</a>
-  <a href="https://twitter.com/kingzamzon">Twitter</a>
-  <a href="https://www.linkedin.com/in/kingzamzon/">LinkedIn</a>
+  <a href="https://medium.com/@kingzamzon"> Blog</a> ||
+  <a href="https://twitter.com/kingzamzon">Twitter</a> || 
+  <a href="https://www.linkedin.com/in/kingzamzon/">LinkedIn</a> ||
+  <a href="mailto:adesanoye.samson1@gmail.com">Email</a>
 </p>
 
 <p align="center">
-I am a Backend Developer focus on PHP/Laravel and JavaScript/TypeScript/Node.js. Though I believe languages are tools and using the right tools bring the best result. I am an active learner cause I believe "Everyday is another day to be a better version of myself, better version of the yesterday me across various stacks in tech"
+  I am a <b>Backend Developer</b> focus on <b>PHP/Laravel</b> and <b>JavaScript/TypeScript/Node.js</b>. 
 </p>
+
+<b>
+Favourite Quote:
+</b> <br />
+
+- Everyday is another day to be a better version of myself, better version of the yesterday me across various stacks in tech
+
+- Languages are tools and using the right tools bring the best result. 
 
 
 <!--
