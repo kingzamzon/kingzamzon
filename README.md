@@ -6,22 +6,13 @@
   <a href="https://www.linkedin.com/in/kingzamzon/">LinkedIn</a>
 </p>
 
-I am a software developer with interest in PHP/Laravel and TypeScript/Node.js
+I am a Backend Developer focus on PHP/Laravel and JavaScript/TypeScript/Node.js
 
 
 - What I'm learning 🌱
 
   Everyday is another day to be a better version of myself, better version of the yesterday me across various stacks in tech, Here's a list of technologies/tools/concepts I am currently working with.
-    - PHP
-    - React
-    - Vue
-    - TypeScript 
-    - Node.js
-    - Laravel 
-    - Blockchain Development/web3 
-    - Algo & DS 
-    - AWS
-    - Docker
+
 
 <!--
 **kingzamzon/kingzamzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
