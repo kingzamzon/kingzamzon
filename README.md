@@ -1,8 +1,8 @@
-<h3>Hey Yo!👋  I'm Samson Adesanoye!</h3>
+<h3 align="center">Hey Yo!👋  I'm Samson Adesanoye!</h3>
 
-<p>
-  <a href="https://hashnode.com/@Kingzamzon">Blog</a>
-  <a href="https://twitter.com/CreativeNiyi">Twitter</a>
+<p align="center">
+  <a href="https://medium.com/@kingzamzon"> Blog</a>
+  <a href="https://twitter.com/kingzamzon">Twitter</a>
   <a href="https://www.linkedin.com/in/kingzamzon/">LinkedIn</a>
 </p>
 
