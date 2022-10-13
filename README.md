@@ -12,7 +12,7 @@
 </p>
 
 <b>
-Favourite Quote:
+Favourite Quotes:
 </b> <br />
 
 - Everyday is another day to be a better version of myself, better version of the yesterday me across various stacks in tech
