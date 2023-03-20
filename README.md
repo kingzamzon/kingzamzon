@@ -4,7 +4,8 @@
   <a href="https://medium.com/@kingzamzon"> Blog</a> ||
   <a href="https://twitter.com/kingzamzon">Twitter</a> || 
   <a href="https://www.linkedin.com/in/kingzamzon/">LinkedIn</a> ||
-  <a href="mailto:adesanoye.samson1@gmail.com">Email</a>
+  <a href="mailto:adesanoye.samson1@gmail.com">Email</a> ||
+  <a href="https://linktr.ee/kingzamzon">Linktree</a> 
 </p>
 
 <p align="center">
