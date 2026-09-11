@@ -3,13 +3,13 @@
 <p align="center">
   <a href="https://medium.com/@kingzamzon"> Blog</a> ||
   <a href="https://twitter.com/kingzamzon">Twitter</a> || 
-  <a href="https://www.linkedin.com/in/kingzamzon/">LinkedIn</a> ||
+  <a href="https://www.linkedin.com/in/kingade/">LinkedIn</a> ||
   <a href="mailto:adesanoye.samson1@gmail.com">Email</a> ||
   <a href="https://linktr.ee/kingzamzon">Linktree</a> 
 </p>
 
 <p align="center">
-  I am a <b>Backend Developer</b> focus on <b>PHP/Laravel</b> and <b>JavaScript/TypeScript/Node.js</b>. 
+  I am a <b>Software Engineer</b> with hands-on experience building scalable, maintainable products from the ground up. Adaptable by nature, with a track record of picking up new technologies and applying them to solve real-world problems. 
 </p>
 
 <b>
