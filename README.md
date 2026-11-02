@@ -1,6 +1,7 @@
-<h3 align="center">Hey Yo!👋  I'm Samson Adesanoye!</h3>
+<h3 align="center">Hey 👋  I'm Samson Adesanoye!</h3>
 
 <p align="center">
+  <a href="https://samson-adesanoye.vercel.app/"> Website</a> ||
   <a href="https://medium.com/@kingzamzon"> Blog</a> ||
   <a href="https://twitter.com/kingzamzon">Twitter</a> || 
   <a href="https://www.linkedin.com/in/kingade/">LinkedIn</a> ||
@@ -9,16 +10,8 @@
 </p>
 
 <p align="center">
-  I am a <b>Software Engineer</b> with hands-on experience building scalable, maintainable products from the ground up. Adaptable by nature, with a track record of picking up new technologies and applying them to solve real-world problems. 
+  I build scalable systems, work with modern technologies, and write documentation that helps people understand and use technology.
 </p>
-
-<b>
-Favourite Quotes:
-</b> <br />
-
-- Everyday is another day to be a better version of myself, better version of the yesterday me across various stacks in tech
-
-- Languages are tools and using the right tools bring the best result. 
 
 
 <!--
